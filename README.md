@@ -7,10 +7,10 @@ Official PyTorch implementation of **“RGB-Thermal Semantic Segmentation via Wi
 | Resource | Link |
 |---|---|
 | Paper | Coming soon <!-- PAPER_URL --> |
-| MFNet dataset archive | [Google Drive](https://drive.google.com/file/d/1d6HZINFPQklknuI_uD3cY-Cz_QeXM-pr/view?usp=drive_link) |
-| PST900 dataset archive | [Google Drive](https://drive.google.com/file/d/1r5DfFCXmAJbCNht8pO0WiXTOPXYOkz6q/view?usp=drive_link) |
+| MFNet dataset  | [Google Drive](https://drive.google.com/file/d/1d6HZINFPQklknuI_uD3cY-Cz_QeXM-pr/view?usp=drive_link) |
+| PST900 dataset | [Google Drive](https://drive.google.com/file/d/1r5DfFCXmAJbCNht8pO0WiXTOPXYOkz6q/view?usp=drive_link) |
 | VMamba-Tiny ImageNet pretrained weights | [Google Drive](https://drive.google.com/file/d/1jzCQGGctBrqcbZOyRtuZ2CLEvjBgayFI/view?usp=drive_link) |
-| TMamba checkpoint on MFNet | [Google Drive](https://drive.google.com/file/d/1lfUIvsibxlPeXkLm5Pr1xvP-FexsXBsI/view?usp=drive_link) |
+| TMamba best checkpoint on MFNet | [Google Drive](https://drive.google.com/file/d/1lfUIvsibxlPeXkLm5Pr1xvP-FexsXBsI/view?usp=drive_link) |
 
 ## Overview
 
