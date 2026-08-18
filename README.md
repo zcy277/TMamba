@@ -73,8 +73,6 @@ Datasets/
     └── test.txt
 ```
 
-MFNet contains 1,569 aligned RGB-T image pairs at a resolution of 480 × 640. The command-line dataset identifier `IRS` in this repository refers to MFNet.
-
 ## Pretrained Models and Checkpoints
 
 Place the downloaded VMamba-Tiny ImageNet pretrained weights at:
@@ -111,5 +109,3 @@ python test.py \
     --exp_name tmamba_mfnet \
     --checkpoint_name "$PWD/Net_best.pth"
 ```
-
-The released MFNet checkpoint achieves **63.3% mIoU** on the test set.
