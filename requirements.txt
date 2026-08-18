@@ -1,0 +1,17 @@
+torch==2.8.0
+torchvision==0.23.0
+numpy==2.2.6
+Pillow==11.3.0
+tqdm==4.67.1
+einops==0.8.1
+timm==1.0.19
+fvcore==0.1.5.post20221221
+scikit-learn==1.7.1
+
+# CUDA selective-scan dependencies
+mamba-ssm==1.1.1
+causal-conv1d==1.5.2
+triton==3.4.0
+selective-scan==0.0.2
+ninja==1.13.0
+packaging==25.0

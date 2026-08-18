@@ -1,0 +1,8 @@
+/Datasets
+/pretrained
+/logs
+*.pth
+*.pt
+*.ckpt
+__pycache__/
+*.py[cod]
